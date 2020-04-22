@@ -5,7 +5,7 @@ import { Link} from "gatsby";
 export default () => (
     <div style={{ color: `teal`}}>
         <Link to="/">Home</Link>
-        <Header headerText="Contact Page"></Header>
+        <Header headerText="Contact Page van Fadoua"></Header>
         <p>
             Send us a message!
         </p>
